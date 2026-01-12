@@ -1,6 +1,9 @@
 # Beans on Toast
 
-## Ingridents
+## Cooking Time
+5 mins
+
+## Ingredients
 
 - Baked Beans in tomato sauce
 - Sliced Bread

@@ -1,5 +1,9 @@
 # Apple Crumble Recipe
 
+## Cooking Time
+15 mins prep
+40 mins in the oven
+
 ## For the filling
 - 575g Bramley apple (3 medium apples), peeled, cored, and sliced to 1cm thick
 - 2 tbsp golden caster sugar

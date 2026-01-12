@@ -1,5 +1,8 @@
 ### Hard Boiled Egg Recipe - Brian McNamara
 
+## Cooking Time
+10 mins
+
 ## Ingredients
 1 Egg
 
