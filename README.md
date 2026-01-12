@@ -1,5 +1,8 @@
 # team-recipe-book
-team-recipe-book
+team-recipe-book 
 
-Contributors
-Eoin Prout Trifle 
+### Contributors
+
+# Favourite Cuisine
+- Brian McNamara - Thai (Nasi Goreng)
+--Eoin Prout Trifle
