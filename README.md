@@ -5,5 +5,9 @@
 
 - Ann Marie Dunne - Today, I Love Italian Food
 - Brian McNamara - Thai (Nasi Goreng)
---Eoin Prout Trifle
+- Eoin Prout Trifle
 
+TOC:
+Beans on toast 
+Hard Bolied Egg
+Apple Crumble
